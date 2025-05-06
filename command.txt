@@ -1,0 +1,1 @@
+g++ main.cpp -o main.exe -I"..\Pong\include" -L"..\Pong\lib" -lsfml-graphics -lsfml-window -lsfml-system -lsfml-network -lsfml-audio
